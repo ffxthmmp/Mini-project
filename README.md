@@ -14,13 +14,20 @@
 - ขนาดของเต้นท์(tent-size) ใช้ในการบันทึกในระบบว่าผู้ใช้บริการต้องการเต้นท์ขนาดเท่าใดเพื่อนำไปบันทึกไว้ในระบบเพื่อทำการจองให้แก่ลูกค้าและนำไปใช้ในการคิดคำนวณค่าบริการ 
 
 
-![319383992_1243771009886708_1736518979006804753_n](https://user-images.githubusercontent.com/110456688/211186490-864dc986-1e26-4ac7-b266-aaec7b0c95d0.jpg)
+
 
 ## Datadict
-|Attribute|Desscription|Data Type |
+|Attribute|Desscription|Data Type |Example|
 |----------|----------|----------|
-| name    |ชือในการเก็บข้อมูล|String|
-| Row 2    | Cell 5   | Cell 6   |
+| name    |ชือในการเก็บข้อมูล|String|Somjit ken|
+| email    |อีเมลในการยืนยัน |Somjit@gmail.com|
+| tell    |เบอร์โทรศัพท์ |String|0874569824|
+| check-in    |วันที่เข้าพัก|String|
+| check-out    | Cell 5   | Cell 6   |
+| location   | Cell 5   | Cell 6   |
+| guests    | Cell 5   | Cell 6   |
+| tent    | Cell 5   | Cell 6   |
+| tent-size   | Cell 5   | Cell 6   |
 
 
 ## Link-youtube
